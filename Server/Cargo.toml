@@ -1,0 +1,4 @@
+[package]
+name = "Server"
+version = "0.1.0"
+authors = ["ben-hunter-hansen <ben.hunter.hansen@gmail.com>"]
